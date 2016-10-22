@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_f7bf927d90aa9ecc6629219c8a677b5e579e935e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_bcde3e8f14cca3dbfd77cced60a1582d8559ebf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_faa8e2e102929e64334338ff051bd5ee97f53147.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_00e6d86545e643bc1f594b53e41d22f6eb78f723.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d712fac8a0b6b64800cb2e12eeb178239ab20446.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b1c4507a84703f3a8785fa6f835ca4c46d3bbcdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_b8371dba874d811c9b8b279f37bb44dd4e8d90f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_d340d796af5a807cf238632a519824e9f2b5e553.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8e20b0e5006f8ccaa25816a7c38d3474fb39a30c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_f8a0d5824a8b0471677a8484bc90cb49234103e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_2856ad8774eca40b5b8505c4c16f3f7880e28ed9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_236351972ed6cc5690ba383d247c1fcafd1f7e19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_15e34f7751ea99e52cb08cecd4a2e0233d860988.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bc1496d1e26b9d6137fd7079be1c9fd4ca6163b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_38f9347bf1143c71721bb43210b9651783d8ea56.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_767c1a12cb9a66484f2b44cf2c1f95c3c109106d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/AppDasfuze/nips/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dca7b2b882bd833719ed42a601cc8ea2e6723770">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/AppDasfuze-nips-unspecified_a10b7ef338ca593b27aeed6d2659a7d8a308862c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/kyrmyzy/Documents/dasfuze/AppDasfuze/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_01f604270e9972695232c7c7e6822904251aabc2.jar" />
+    </item>
+
+</items>
